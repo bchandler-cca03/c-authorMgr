@@ -1,0 +1,12 @@
+C:\Users\Bill Chandler\Documents\dotnet\authorMgr\AuthorMgr\AuthorMgr\obj\Debug\netcoreapp2.0\AuthorMgr.csprojResolveAssemblyReference.cache
+C:\Users\Bill Chandler\Documents\dotnet\authorMgr\AuthorMgr\AuthorMgr\obj\Debug\netcoreapp2.0\AuthorMgr.csproj.CoreCompileInputs.cache
+C:\Users\Bill Chandler\Documents\dotnet\authorMgr\AuthorMgr\AuthorMgr\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Bill Chandler\Documents\dotnet\authorMgr\AuthorMgr\AuthorMgr\obj\Debug\netcoreapp2.0\AuthorMgr.AssemblyInfoInputs.cache
+C:\Users\Bill Chandler\Documents\dotnet\authorMgr\AuthorMgr\AuthorMgr\obj\Debug\netcoreapp2.0\AuthorMgr.AssemblyInfo.cs
+C:\Users\Bill Chandler\Documents\dotnet\authorMgr\AuthorMgr\AuthorMgr\bin\Debug\netcoreapp2.0\AuthorMgr.deps.json
+C:\Users\Bill Chandler\Documents\dotnet\authorMgr\AuthorMgr\AuthorMgr\bin\Debug\netcoreapp2.0\AuthorMgr.runtimeconfig.json
+C:\Users\Bill Chandler\Documents\dotnet\authorMgr\AuthorMgr\AuthorMgr\bin\Debug\netcoreapp2.0\AuthorMgr.runtimeconfig.dev.json
+C:\Users\Bill Chandler\Documents\dotnet\authorMgr\AuthorMgr\AuthorMgr\bin\Debug\netcoreapp2.0\AuthorMgr.dll
+C:\Users\Bill Chandler\Documents\dotnet\authorMgr\AuthorMgr\AuthorMgr\bin\Debug\netcoreapp2.0\AuthorMgr.pdb
+C:\Users\Bill Chandler\Documents\dotnet\authorMgr\AuthorMgr\AuthorMgr\obj\Debug\netcoreapp2.0\AuthorMgr.dll
+C:\Users\Bill Chandler\Documents\dotnet\authorMgr\AuthorMgr\AuthorMgr\obj\Debug\netcoreapp2.0\AuthorMgr.pdb
